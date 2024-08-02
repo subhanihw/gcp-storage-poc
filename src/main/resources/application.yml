@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    gcp:
+      credentials:
+        location: file:C:\Users\SAILS-DM273\Desktop\nobita-gcp-project-dfaf6663eeed.json
+
+logging:
+  level:
+    org.springframework: debug
+
+server:
+  port: 7890
+
